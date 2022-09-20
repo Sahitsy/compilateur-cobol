@@ -1,0 +1,16 @@
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.exe.config
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.exe
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.pdb
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.csprojResolveAssemblyReference.cache
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.exe
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.pdb
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.MainForm.resources
+D:\SRA\05 PGM\CSharpDev\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.csproj.GenerateResource.Cache
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.exe.config
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.exe
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\bin\Debug\CompilateurCobol.pdb
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.csprojResolveAssemblyReference.cache
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.MainForm.resources
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.csproj.GenerateResource.Cache
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.exe
+D:\04 PROJETS\C# Develop\CompilateurCobol\CompilateurCobol\obj\Debug\CompilateurCobol.pdb

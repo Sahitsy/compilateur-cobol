@@ -1,0 +1,14 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. TESTCBL.
+
+       DATA DIVISION.
+       FILE SECTION.
+       WORKING-STORAGE SECTION.
+
+       PROCEDURE DIVISION.
+       PARAGRAPHE-1.
+           DISPLAY SPACE
+           DISPLAY "Salut !"
+
+           STOP RUN.
+       END PROGRAM TESTCBL.
